@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on many random projects
-🌱 I’m currently learning React, Electron and Python
-📫 How to reach me: contact@trofix.cf
+🔭 I’m currently working on many random projects \
+🌱 I’m currently learning React, Electron and Python \
+📫 How to reach me: contact@trofix.cf \
 ⚡ Fun fact: I started coding when I was 7
