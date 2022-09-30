@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on many random projects 
 - 🌱 I’m currently learning React, Electron and Python 
-- 📫 How to reach me: contact@trofix.cf 
+- 📫 How to reach me: contact@trofix.me
 - ⚡ Fun fact: I started coding when I was 7
 
   
