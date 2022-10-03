@@ -30,6 +30,7 @@
 <a  href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"  target="_blank">  <img  src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"  alt="csharp"  width="45"  height="45"/>  </a>
 <a  href="https://en.wikipedia.org/wiki/Python_(programming_language)"  target="_blank">  <img  src="https://img.icons8.com/color/344/python--v1.png"  width="45"  height="45"/>  </a>
 <a  href="https://en.wikipedia.org/wiki/Java_(programming_language)"  target="_blank">  <img  src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"  width="45"  height="45"/>  </a>
+<a  href="https://en.wikipedia.org/wiki/Lua_(programming_language)"  target="_blank">  <img  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"  width="45"  height="45"/>  </a>
 </p>
 
 
