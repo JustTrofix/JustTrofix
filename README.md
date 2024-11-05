@@ -10,7 +10,7 @@
   
 
 - 🔭 I’m currently working on many random projects 
-- 🌱 I’m currently learning React, Electron and Python 
+- 🌱 I’m currently learning React and C++
 - 📫 How to reach me: contact@trofix.us.to
 - ⚡ Fun fact: I started coding when I was 7
 
